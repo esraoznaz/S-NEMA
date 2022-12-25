@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BİLGİ.Film">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQAAAAQAAAAAAAAAAACAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BİLGİ.Korku">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAABAAAQAhAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Korku.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BİLGİ.Komedi">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAAAAQAhAABAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Komedi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BİLGİ.CizgiFilm">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAABAQAhAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CizgiFilm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BİLGİ.Gerilim">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAAAAQAhAABAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Gerilim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
